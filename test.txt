@@ -1,2 +1,3 @@
 Hello!
 new changes
+Added new cool feature details
